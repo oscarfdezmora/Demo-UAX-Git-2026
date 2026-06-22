@@ -1,2 +1,2 @@
-.env/secrets2
+.env/secrets*
 *.txt
